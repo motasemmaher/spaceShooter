@@ -1,0 +1,282 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{00AF4A40-D06E-47FA-8287-1C09287FA326}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WindowsFormsApplication2</RootNamespace>
+    <AssemblyName>WindowsFormsApplication2</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="currentProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="currentProfile.Designer.cs">
+      <DependentUpon>currentProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Game.cs" />
+    <Compile Include="History.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="History.Designer.cs">
+      <DependentUpon>History.cs</DependentUpon>
+    </Compile>
+    <Compile Include="menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="menu.Designer.cs">
+      <DependentUpon>menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="playback.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="playback.Designer.cs">
+      <DependentUpon>playback.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Player.cs" />
+    <Compile Include="CreateProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreateProfile.Designer.cs">
+      <DependentUpon>CreateProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Statistics.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Statistics.Designer.cs">
+      <DependentUpon>Statistics.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="CreateProfile.resx">
+      <DependentUpon>CreateProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="currentProfile.resx">
+      <DependentUpon>currentProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="History.resx">
+      <DependentUpon>History.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="menu.resx">
+      <DependentUpon>menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="playback.resx">
+      <DependentUpon>playback.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Statistics.resx">
+      <DependentUpon>Statistics.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\space-ship-2-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\space-ship-3-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spaceship-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ufo-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\spaceship-transportation-rocket-space-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\space-ship-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\alien-2-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\12-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10101-alien-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1146339.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Alien-talk-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Halloween-Alien-Extraterestrial-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\monster_alien_space._7-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\space-ship-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\space-shuttle-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\space-rocket-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\space-shuttle-launch-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\space-ship-icon2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Space_Invader-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hackus-smurf-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1361981.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1921070.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2347418.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2347419.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2184580.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2136739.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\181487.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1977460.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1175777.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\elegant-black-handmade-technique-aquarelle_23-2148300751.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\elegant-black-handmade-technique-aquarelle_23-21483007511.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\x6hoszvincg21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\beachball.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Annotation 2019-12-03 002550.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

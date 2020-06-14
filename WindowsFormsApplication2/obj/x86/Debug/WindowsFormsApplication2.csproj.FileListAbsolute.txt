@@ -1,0 +1,57 @@
+C:\Users\USER\Desktop\midprojict\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\USER\Desktop\midprojict\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.CreateProfile.resources
+C:\Users\USER\Desktop\midprojict\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.currentProfile.resources
+C:\Users\USER\Desktop\midprojict\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\USER\Desktop\midprojict\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.History.resources
+C:\Users\USER\Desktop\midprojict\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\USER\Desktop\midprojict\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Statistics.resources
+C:\Users\USER\Desktop\midprojict\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\midprojict\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+C:\Users\USER\Desktop\midprojict\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+C:\Users\USER\Desktop\midprojict\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\USER\Desktop\midprojict\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\midprojict\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Interop.WMPLib.dll
+C:\Users\USER\Desktop\midprojict\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\USER\Desktop\midprojict\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\USER\Desktop\midprojict\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\USER\Desktop\midprojict\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.ResolveComReference.cache
+C:\Users\Osama\Desktop\vp\Roaa\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Osama\Desktop\vp\Roaa\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Osama\Desktop\vp\Roaa\WindowsFormsApplication2\bin\Debug\Interop.WMPLib.dll
+C:\Users\Osama\Desktop\vp\Roaa\WindowsFormsApplication2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Osama\Desktop\vp\Roaa\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+C:\Users\Osama\Desktop\vp\Roaa\WindowsFormsApplication2\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Osama\Desktop\vp\Roaa\WindowsFormsApplication2\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Osama\Desktop\vp\Roaa\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.ResolveComReference.cache
+C:\Users\Osama\Desktop\vp\Roaa\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.CreateProfile.resources
+C:\Users\Osama\Desktop\vp\Roaa\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.currentProfile.resources
+C:\Users\Osama\Desktop\vp\Roaa\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Osama\Desktop\vp\Roaa\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.History.resources
+C:\Users\Osama\Desktop\vp\Roaa\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Osama\Desktop\vp\Roaa\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Statistics.resources
+C:\Users\Osama\Desktop\vp\Roaa\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+C:\Users\Osama\Desktop\vp\Roaa\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+C:\Users\Osama\Desktop\vp\Roaa\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+C:\Users\Osama\Desktop\vp\Roaa\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Osama\Desktop\vp\Roaa\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.menu.resources
+C:\Users\Osama\Desktop\vp\Roaa\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.playback.resources
+D:\Work\Visual Programming\Roaa\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\Work\Visual Programming\Roaa\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\Work\Visual Programming\Roaa\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\Work\Visual Programming\Roaa\WindowsFormsApplication2\bin\Debug\Interop.WMPLib.dll
+D:\Work\Visual Programming\Roaa\WindowsFormsApplication2\bin\Debug\AxInterop.WMPLib.dll
+D:\Work\Visual Programming\Roaa\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+D:\Work\Visual Programming\Roaa\WindowsFormsApplication2\obj\x86\Debug\Interop.WMPLib.dll
+D:\Work\Visual Programming\Roaa\WindowsFormsApplication2\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\Work\Visual Programming\Roaa\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.ResolveComReference.cache
+D:\Work\Visual Programming\Roaa\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.CreateProfile.resources
+D:\Work\Visual Programming\Roaa\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.currentProfile.resources
+D:\Work\Visual Programming\Roaa\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+D:\Work\Visual Programming\Roaa\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.History.resources
+D:\Work\Visual Programming\Roaa\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.menu.resources
+D:\Work\Visual Programming\Roaa\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.playback.resources
+D:\Work\Visual Programming\Roaa\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\Work\Visual Programming\Roaa\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Statistics.resources
+D:\Work\Visual Programming\Roaa\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+D:\Work\Visual Programming\Roaa\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+D:\Work\Visual Programming\Roaa\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
